@@ -1,4 +1,4 @@
-![Squishy SCSI Multitool](./profile/profile-image.png)
+![Squishy SCSI Multitool](./profile-image.png)
 
 ---
 
